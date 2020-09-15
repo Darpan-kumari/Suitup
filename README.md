@@ -27,6 +27,12 @@ Backend (data)
 *signin
 *signup
 
+# Create a new project using 
+npx create-react-app 'project-name'
+
+# start project 
+npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
