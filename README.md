@@ -1,3 +1,32 @@
+Functionalities
+*sign in
+*sign up
+*create a group
+* send message
+*join a group
+*search a group
+*Delete a channel
+
+Backend (data)
+*users
+*groups
+*messages
+ 
+ Frontend (UI component)
+ *navbar
+ *footer
+ *comment
+ *sidebar
+    *list of groups
+    *list of direct messages
+*main container
+    *header
+    *list of messages
+    *message
+    *create message
+*signin
+*signup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
